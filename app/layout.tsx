@@ -30,7 +30,7 @@ export default function RootLayout({
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
 
       >
-        <header className=" bg-white shadow-md sticky top-0">
+        <header className=" bg-white shadow-md sticky z-50 top-0">
         <div className="container mx-auto px-4 py-6 flex justify-between items-center">
           <h1 className="text-3xl font-bold text-gray-800">AI Travel Planner</h1>
           <nav>
