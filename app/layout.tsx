@@ -38,7 +38,7 @@ export default function RootLayout({
               <li><Link href="/" className="text-gray-600 hover:text-[#fc5071]">Home</Link></li>
               <li><Link href="/form" className="text-gray-600 hover:text-[#fc5071]">Plan a Trip</Link></li>
               <li><Link href="/about" className="text-gray-600 hover:text-[#fc5071]">About</Link></li>
-              <li><Link href="/login" className="text-gray-600 hover:text-[#fc5071]">Contact</Link></li>
+              <li><Link href="/login" className="text-gray-600 hover:text-[#fc5071]">Login</Link></li>
             </ul>
           </nav>
         </div>

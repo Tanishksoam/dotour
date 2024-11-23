@@ -3,7 +3,7 @@
 import React, { useState, FormEvent } from "react";
 import { getAuth, signInWithEmailAndPassword, createUserWithEmailAndPassword } from "firebase/auth";
 import { GoogleAuthProvider, signInWithPopup } from "firebase/auth";
-import app from "../firebase";
+import app from "../../firebase";
 
 const Login: React.FC = () => {
   const auth = getAuth(app);
