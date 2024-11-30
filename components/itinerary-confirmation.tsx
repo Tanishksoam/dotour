@@ -16,17 +16,17 @@ export function ItineraryConfirmationComponent() {
             </div>
             <CardTitle className="text-2xl font-bold text-center">Thank You for Your Submission!</CardTitle>
             <CardDescription className="text-center text-lg">
-              We're creating your custom travel plan.
+              We&apos;re creating your custom travel plan.
             </CardDescription>
           </CardHeader>
           <CardContent>
             <section className="mb-8">
               <h2 className="text-xl font-semibold mb-4">Next Steps</h2>
               <p className="text-gray-600 mb-4">
-                Your personalized itinerary is being crafted by our AI. Here's what you can expect:
+                Your personalized itinerary is being crafted by our AI. Here&apos;s what you can expect:
               </p>
               <ul className="list-disc list-inside space-y-2 text-gray-600">
-                <li>You'll receive an email with your custom itinerary within the next 24 hours.</li>
+                <li>You&apos;ll receive an email with your custom itinerary within the next 24 hours.</li>
                 <li>Your itinerary will also be available in your account dashboard.</li>
                 <li>If you opted in, your plan may be featured as a sample itinerary (anonymized for privacy).</li>
               </ul>
